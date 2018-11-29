@@ -16,3 +16,6 @@ Enter a movie title and Liri will query the OMDB API and return the movie title,
 Will take whats in random.txt and use it to call one of Liri's commands. Modify the text in random.txt to see how it works.
 
 - also logs returned data for each command to a log.txt file
+
+![demonstration](demo.gif)
+

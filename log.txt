@@ -1,0 +1,366 @@
+
+Venue: Mandalay Bay Events Center
+Location: Las Vegas, United States
+Date: 12/30/2018
+==========================================
+Venue: Mandalay Bay Events Center
+Location: Las Vegas, United States
+Date: 12/31/2018
+==========================================
+Venue: Brisbane Entertainment Centre
+Location: Brisbane, Australia
+Date: 02/19/2019
+==========================================
+Venue: Qudos Bank Arena
+Location: Sydney, Australia
+Date: 02/21/2019
+==========================================
+Venue: Rod Laver Arena
+Location: Melbourne, Australia
+Date: 02/22/2019
+==========================================
+Venue: Tokyo Dome
+Location: Tokyo, Japan
+Date: 02/25/2019
+==========================================
+Venue: Gocheok Sky Dome
+Location: Seoul, South Korea
+Date: 02/27/2019
+==========================================
+Venue: TBA
+Location: Kaohsiung City, Taiwan
+Date: 03/01/2019
+==========================================
+Venue: TBA
+Location: Macau, Macau
+Date: 03/03/2019
+==========================================
+Venue: SM Mall Of Asia
+Location: Manila, Philippines
+Date: 03/05/2019
+==========================================
+Venue: NATIONAL STADIUM
+Location: Singapore, Singapore
+Date: 03/07/2019
+==========================================
+Venue: CHALLENGER HALL
+Location: Bangkok, Thailand
+Date: 03/09/2019
+==========================================
+Venue: Mollenpark
+Location: Aalborg, Denmark
+Date: 06/01/2019
+==========================================
+Venue: Lanxess Arena
+Location: Cologne, Germany
+Date: 06/03/2019
+==========================================
+Venue: O2 ARENA
+Location: Prague, Czech Republic
+Date: 06/05/2019
+==========================================
+Venue: Tauron Arena
+Location: Kraków, Poland
+Date: 06/06/2019
+==========================================
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date: 06/10/2019
+==========================================
+Venue: AccorHotels Arena
+Location: Paris, France
+Date: 06/11/2019
+==========================================
+Venue: The Sylvee
+Location: Madison, United States
+Date: 11/28/2018
+==========================================
+Venue: Aragon Ballroom
+Location: Chicago, United States
+Date: 11/30/2018
+==========================================
+Venue: Stifel Theatre
+Location: St. Louis, United States
+Date: 12/01/2018
+==========================================
+Venue: Brady Theater
+Location: Tulsa, United States
+Date: 12/02/2018
+==========================================
+Venue: Sunken Garden Theater
+Location: San Antonio, United States
+Date: 12/04/2018
+==========================================
+Venue: The Rialto Theatre
+Location: Tucson, United States
+Date: 12/06/2018
+==========================================
+Venue: Mesa Amphitheatre
+Location: Phoenix, United States
+Date: 12/07/2018
+==========================================
+Venue: The Forum
+Location: Los Angeles, United States
+Date: 12/08/2018
+==========================================
+Venue: Spektrum
+Location: Oslo, Norway
+Date: 05/30/2019
+==========================================
+Venue: Gröna Lund
+Location: Stockholm, Sweden
+Date: 05/31/2019
+==========================================
+Venue: Heartland Festival
+Location: Kvaerndrup, Denmark
+Date: 06/01/2019
+==========================================
+Venue: Zitadelle
+Location: Berlin, Germany
+Date: 06/05/2019
+==========================================
+Venue: Forum Karlin 
+Location: Prague, Czech Republic
+Date: 06/06/2019
+==========================================
+Venue: Rock Am Ring
+Location: Nürburg, Germany
+Date: 06/07/2019
+==========================================
+Venue: Rock Im Park
+Location: Nuremberg, Germany
+Date: 06/09/2019
+==========================================
+Venue: Lotto arena
+Location: Antwerp, Belgium
+Date: 06/10/2019
+==========================================
+Venue: AFAS Live
+Location: Amsterdam, Netherlands
+Date: 06/11/2019
+==========================================
+Venue: Firenze Rocks 
+Location: Florence, Italy
+Date: 06/13/2019
+==========================================
+Venue: Download Festival
+Location: Castle Donington, United Kingdom
+Date: 06/16/2019
+==========================================
+Venue: NOS Alive
+Location: Lisbon, Portugal
+Date: 07/13/2019
+==========================================
+Artist: blink-182
+Song Name: All The Small Things
+Preview: null
+Album: Enema Of The State
+==========================================
+Title: Ghostbusters
+Year of Release: 1984
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English
+Plot: Three former parapsychology professors set up shop as a unique ghost removal service.
+Actors: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
+==========================================
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=af450ac370ea474588bd59265c5b41cd
+Album: The Hits--Chapter One
+==========================================
+Venue: The Sylvee
+Location: Madison, United States
+Date: 11/28/2018
+==========================================
+Venue: Aragon Ballroom
+Location: Chicago, United States
+Date: 11/30/2018
+==========================================
+Venue: Brady Theater
+Location: Tulsa, United States
+Date: 12/02/2018
+==========================================
+Venue: Stifel Theatre
+Location: St. Louis, United States
+Date: 12/01/2018
+==========================================
+Venue: Sunken Garden Theater
+Location: San Antonio, United States
+Date: 12/04/2018
+==========================================
+Venue: The Rialto Theatre
+Location: Tucson, United States
+Date: 12/06/2018
+==========================================
+Venue: Mesa Amphitheatre
+Location: Phoenix, United States
+Date: 12/07/2018
+==========================================
+Venue: The Forum
+Location: Los Angeles, United States
+Date: 12/08/2018
+==========================================
+Venue: Spektrum
+Location: Oslo, Norway
+Date: 05/30/2019
+==========================================
+Venue: Gröna Lund
+Location: Stockholm, Sweden
+Date: 05/31/2019
+==========================================
+Venue: Heartland Festival
+Location: Kvaerndrup, Denmark
+Date: 06/01/2019
+==========================================
+Venue: Zitadelle
+Location: Berlin, Germany
+Date: 06/05/2019
+==========================================
+Venue: Forum Karlin 
+Location: Prague, Czech Republic
+Date: 06/06/2019
+==========================================
+Venue: Rock Am Ring
+Location: Nürburg, Germany
+Date: 06/07/2019
+==========================================
+Venue: Rock Im Park
+Location: Nuremberg, Germany
+Date: 06/09/2019
+==========================================
+Venue: Lotto arena
+Location: Antwerp, Belgium
+Date: 06/10/2019
+==========================================
+Venue: AFAS Live
+Location: Amsterdam, Netherlands
+Date: 06/11/2019
+==========================================
+Venue: Firenze Rocks 
+Location: Florence, Italy
+Date: 06/13/2019
+==========================================
+Venue: Download Festival
+Location: Castle Donington, United Kingdom
+Date: 06/16/2019
+==========================================
+Venue: NOS Alive
+Location: Lisbon, Portugal
+Date: 07/13/2019
+==========================================
+Artist: blink-182
+Song Name: All The Small Things
+Preview: null
+Album: Enema Of The State
+==========================================
+Title: Jaws
+Year of Release: 1975
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English
+Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wreaking havoc in a beach resort.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+==========================================
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=af450ac370ea474588bd59265c5b41cd
+Album: The Hits--Chapter One
+==========================================
+Venue: Aragon Ballroom
+Location: Chicago, United States
+Date: 11/30/2018
+==========================================
+Venue: Stifel Theatre
+Location: St. Louis, United States
+Date: 12/01/2018
+==========================================
+Venue: Brady Theater
+Location: Tulsa, United States
+Date: 12/02/2018
+==========================================
+Venue: Sunken Garden Theater
+Location: San Antonio, United States
+Date: 12/04/2018
+==========================================
+Venue: The Rialto Theatre
+Location: Tucson, United States
+Date: 12/06/2018
+==========================================
+Venue: Mesa Amphitheatre
+Location: Phoenix, United States
+Date: 12/07/2018
+==========================================
+Venue: The Forum
+Location: Los Angeles, United States
+Date: 12/08/2018
+==========================================
+Venue: Spektrum
+Location: Oslo, Norway
+Date: 05/30/2019
+==========================================
+Venue: Gröna Lund
+Location: Stockholm, Sweden
+Date: 05/31/2019
+==========================================
+Venue: Heartland Festival
+Location: Kvaerndrup, Denmark
+Date: 06/01/2019
+==========================================
+Venue: Zitadelle
+Location: Berlin, Germany
+Date: 06/05/2019
+==========================================
+Venue: Forum Karlin 
+Location: Prague, Czech Republic
+Date: 06/06/2019
+==========================================
+Venue: Rock Am Ring
+Location: Nürburg, Germany
+Date: 06/07/2019
+==========================================
+Venue: Rock Im Park
+Location: Nuremberg, Germany
+Date: 06/09/2019
+==========================================
+Venue: Lotto arena
+Location: Antwerp, Belgium
+Date: 06/10/2019
+==========================================
+Venue: AFAS Live
+Location: Amsterdam, Netherlands
+Date: 06/11/2019
+==========================================
+Venue: Firenze Rocks 
+Location: Florence, Italy
+Date: 06/13/2019
+==========================================
+Venue: Download Festival
+Location: Castle Donington, United Kingdom
+Date: 06/16/2019
+==========================================
+Venue: NOS Alive
+Location: Lisbon, Portugal
+Date: 07/13/2019
+==========================================
+Artist: blink-182
+Song Name: All The Small Things
+Preview: null
+Album: Enema Of The State
+==========================================
+Title: Jurassic Park
+Year of Release: 1993
+IMDB Rating: 8.1
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English, Spanish
+Plot: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+Actors: Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+==========================================
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=af450ac370ea474588bd59265c5b41cd
+Album: The Hits--Chapter One
+==========================================

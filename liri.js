@@ -173,12 +173,27 @@ switch (liriCommand) {
             if (error) {
                 return console.log(error);
             }
+            var random = data.split(',');
 
-            liriCommand = data.split(",")[0].trim();
-            arg = data.split(",")[1].trim();
+            process.argv[2] = random [0];
+            process.argv[3] = random [1];
 
-            runLiri();
-            
+
+            if (process.argv[2] === 'concert-this') {
+                concertThis(process.argv[3]);
+                return
+            }
+            if (process.argv[2] === 'spotify-this-song') {
+                spotifyThis(process.argv[3]);
+                return
+            }
+            if (process.argv[2] === 'movie-this') {
+                movieThis(process.argv[3]);
+                return
+            }
+            else {
+                console.log('Please enter a valid command.')
+            }
 
         })
     }
